@@ -35,10 +35,7 @@
             artists. Create m3u8 playlists easily from within the application, choose a name and icon and see it
             displayed on the playlists page for easy access to your favorite songs.
         </p>
-    </description>
-
-    <description xml:lang="cs">
-        <p>
+        <p xml:lang="cs">
             Hudební přehrávač napsaný v toolkitu libcosmic. Prohledává vybraný adresář s audio soubory, načítá metadata a 
             zobrazuje je i organizuje na několika stránkách. Hudbu si můžete prohlížet podle jednotlivých skladeb, alb nebo
             umělců. Přímo v aplikaci lze snadno vytvářet playlisty ve formátu m3u8 – zvolíte název, ikonu a playlist se 

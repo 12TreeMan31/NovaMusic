@@ -16,7 +16,7 @@ Loading = Načítání...
 
 # Common Terms
 album = Album
-title = Titulek
+title = Název
 artist = Umělec
 pageresults = Výsledky {$number}
 singles = Singly
@@ -31,7 +31,7 @@ firsttimeprimary = Skenovat složku a pokračovat
 
 # Playlist Creation Dialog
 DialogPlaylistTitle = Vytvořit nový playlist
-DialogPlaylistChosenName = Titulek playlistu:
+DialogPlaylistChosenName = Název playlistu:
 DialogPlaylistPrimary = Vytvořit
 # Playlist Deletion Dialog
 DialogPlaylistDelete = Smazat playlist?
